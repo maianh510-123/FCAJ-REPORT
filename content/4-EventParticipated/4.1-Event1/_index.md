@@ -88,10 +88,10 @@ The sharing session **“AWS: Enterprise Cloud Architectures and Industry Applic
 - AI is a powerful leverage tool when used correctly, but core thinking capability and deep understanding of business problems remain irreplaceable engineer values.
 
 #### Event Photos
-<img src="/images//IMG_3730.png" alt="Sự kiện AWS Event 1" width="500px" />
-<img src="/images//IMG_3731.png" alt="Sự kiện AWS Event 1" width="500px" />
-<img src="/images//IMG_3732.png" alt="Sự kiện AWS Event 1" width="500px" />
-<img src="/images//IMG_3733.png" alt="Sự kiện AWS Event 1" width="500px" />
-<img src="/images//IMG_3735.png" alt="Sự kiện AWS Event 1" width="500px" />
+<img src="/images/IMG_3730.png" alt="Sự kiện AWS Event 1" width="500px" />
+<img src="/images/IMG_3731.png" alt="Sự kiện AWS Event 1" width="500px" />
+<img src="/images/IMG_3732.png" alt="Sự kiện AWS Event 1" width="500px" />
+<img src="/images/IMG_3733.png" alt="Sự kiện AWS Event 1" width="500px" />
+<img src="/images/IMG_3735.png" alt="Sự kiện AWS Event 1" width="500px" />
 
 > In summary, the event helped redefine learning mindsets, reinforced career directions in Cloud/Data, and provided strong inspiration to continue exploring and improving oneself.

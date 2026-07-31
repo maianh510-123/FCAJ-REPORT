@@ -28,7 +28,7 @@ chapter: false
 
 &emsp; **Thời gian thực tập:** Từ ngày 01/06/2026 đến ngày 15/08/2026
 
-<img src="/254249.png" alt="ảnh đại diện" width="500px" />
+<img src="/images/254249.png" alt="ảnh đại diện" width="500px" />
 
 ### Nội dung báo cáo
 

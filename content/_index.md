@@ -28,7 +28,7 @@ chapter: false
 
 &emsp; **Internship Duration:** From 01/06/2026 to 15/08/2026
 
-<img src="/254249.png" alt="ảnh đại diện" width="500px" />
+<img src="/images/254249.png" alt="ảnh đại diện" width="500px" />
 
 ### Report Content
 

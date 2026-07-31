@@ -89,11 +89,11 @@ Buổi chia sẻ **“AWS: Enterprise Cloud Architectures and Industry Applicati
 - AI là công cụ hỗ trợ đắc lực nếu biết sử dụng đúng cách, nhưng năng lực tư duy cốt lõi và sự thấu hiểu bài toán thực tế mới là giá trị không thể thay thế của kỹ sư.
 
 #### Một số hình ảnh khi tham gia sự kiện
-<img src="/images//IMG_3730.png" alt="Sự kiện AWS Event 1" width="500px" />
-<img src="/images//IMG_3731.png" alt="Sự kiện AWS Event 1" width="500px" />
-<img src="/images//IMG_3732.png" alt="Sự kiện AWS Event 1" width="500px" />
-<img src="/images//IMG_3733.png" alt="Sự kiện AWS Event 1" width="500px" />
-<img src="/images//IMG_3735.png" alt="Sự kiện AWS Event 1" width="500px" />
+<img src="/images/IMG_3730.png" alt="Sự kiện AWS Event 1" width="500px" />
+<img src="/images/IMG_3731.png" alt="Sự kiện AWS Event 1" width="500px" />
+<img src="/images/IMG_3732.png" alt="Sự kiện AWS Event 1" width="500px" />
+<img src="/images/IMG_3733.png" alt="Sự kiện AWS Event 1" width="500px" />
+<img src="/images/IMG_3735.png" alt="Sự kiện AWS Event 1" width="500px" />
 
 
 > Tổng kết lại, sự kiện giúp định hình lại tư duy học tập, củng cố định hướng nghề nghiệp trong lĩnh vực Cloud/Data và truyền cảm hứng mạnh mẽ để tiếp tục dấn thân, hoàn thiện bản thân.
