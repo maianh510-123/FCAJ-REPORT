@@ -6,8 +6,6 @@ chapter: false
 pre: " <b> 7. </b> "
 ---
 
-# FEEDBACK & SUGGESTIONS
-
 ### General Evaluation
 
 **1. Work Environment:**
